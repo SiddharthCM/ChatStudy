@@ -143,15 +143,14 @@ client.close()
 
 ```
 ## Output:
-Client:
-
-<img width="877" height="210" alt="image" src="https://github.com/user-attachments/assets/b2940d9e-d4dd-41d7-b826-d3253b88565d" />
-
 Server:
 
-<img width="832" height="106" alt="image" src="https://github.com/user-attachments/assets/0482a43e-6dab-4f78-96a7-4a6a545e47e7" />
+<img width="809" height="207" alt="image" src="https://github.com/user-attachments/assets/8178ce2d-17a3-4c3c-b660-cd47e9184d40" />
 
-<img width="823" height="173" alt="image" src="https://github.com/user-attachments/assets/bd813faf-3486-4b3f-ba1e-2f2644f1481d" />
+
+Client:
+<img width="824" height="206" alt="image" src="https://github.com/user-attachments/assets/54a99b31-a2ad-4fca-8ea0-b5ee44f7653b" />
+
 
 
 
